@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width initial-scale=1.0, 
+    maximum-scale=1.0">
+    <title>Avengers Endgame Quiz</title>
+    <meta name="description" content="Avengers Endgame Quiz">
+    <link href="index.css" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Metrophobic" rel="stylesheet">
+  </head>
+  <body>
+    <header class="title-container">
+    <div id="quiz-title" class="title">
+      <h1 id="title-text">Avengers Endgame Quiz</h1>
+    </div>
+    <div id="question-counter">
+      <p class="counter">Question:<span id="question-number">1</span>/10</p>
+      <p class="counter">Score:<span id="score">0</span></p>
+    </div>
+    </header>
+    <main role="main">
+      <div id="quiz-intro-text" class="quiz-start">
+        <p id="intro-text">How much of an Avengers fan are you?</p>
+      </div>
+      <div class="quiz-start"> 
+        <button type="button" id="quiz-start-button" class="start-button">Take the Quiz</button>
+      </div>
+      <div id="question-answer-form" class="hide">
+      </div>
+    </main>
+    <script src="//code.jquery.com/jquery.min.js"></script>
+    <script src="datastore.js"></script>
+    <script src="index.js"></script>
+  </body>
+</html>

@@ -1,0 +1,122 @@
+const STORE = [
+  { 
+    question:'How long has Tony Stark been without water and food on the Benatar?',
+    answer:[
+      'None, he escaped to another planet',
+      '4 days',
+      '11 days',
+      'He has food but no water',
+    ],
+    correctAnswer: '4 days',
+    icon:'https://nerdist.com/wp-content/uploads/2019/01/Tony-Stark-Avengers-Endgame-615x307.jpg',
+    alt:'tony on benatar',
+  },
+  {
+  question:'Why is Tony talking to his scarred Iron Man helmet?',
+    answer:[
+      'Recording a message for Pepper Potts',
+      'He was feeling lonely',
+      'He had gone crazy',
+      'He was sending out contacting signals',
+    ],
+    correctAnswer: 'Recording a message for Pepper Potts',
+    icon:'https://static0.cbrimages.com/wordpress/wp-content/uploads/2018/12/avengers-4-trailer-tony-stark-space-1.jpg',
+    alt:'tony talking to his Iron Man helmet',
+  },
+  {
+  question:'Who rescued Tony Stark and brought him back to earth?',
+    answer:[
+      'Thanos',
+      'Spiderman',
+      'Superman',
+      'Captain Marvel',
+    ],
+    correctAnswer: 'Captain Marvel',
+    icon:'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/captain-marvel-brie-larson-stand-1551890095.jpg?crop=1xw:0.66675xh;center,top&resize=480:*',
+    alt:'Picture of Captain Marvel',
+  },
+  {
+   question:'What is the name of the planet that Thanos has settled on?',
+    answer:[
+      'Golden Star',
+      'Titan 2',
+      'Infinity Planet',
+      'Thanos Land',
+    ],
+    correctAnswer: 'Titan 2',
+    icon:'https://www.quirkybyte.com/wp-content/uploads/2018/12/Thanos-Wakanda.jpg',
+    alt:'Picture of Thanos on Titan 2', 
+  },
+  {
+   question:'What was Thanos doing before the Avengers came to Titan 2 and killed him?',
+    answer:[
+      'Dancing',
+      'Killing someone',
+      'Reading a book',
+      'Cooking',
+    ],
+    correctAnswer: 'Cooking',
+    icon:'https://i.ytimg.com/vi/w7_todZa8Ns/maxresdefault.jpg',
+    alt:'Picture of Thanos on farm', 
+  },
+  {
+   question:'What had happened after Thanos snapped his fingers for the first time?',
+    answer:[
+      'Half of universe population vanished',
+      'He created another earth',
+      'Nothing happened',
+      'All superheroes were killed',
+    ],
+    correctAnswer: 'Half of universe population vanished',
+    icon:'https://i.ytimg.com/vi/VaatvN44rhY/mqdefault.jpg',
+    alt:'Picture of Thanos snapping his fingers', 
+  },
+  {
+    question:'Which superhero sacrificed life for getting the soul stone?',
+    answer:[
+      'Ironman',
+      'Antman',
+      'Black Widow',
+      'Captain America',
+    ],
+    correctAnswer: 'Black Widow',
+    icon:'https://fsmedia.imgix.net/5d/d5/fe/75/94c7/48a2/9291/3ddd721a4c5a/avengers-endgame-blackwidow.png?rect=0%2C0%2C1061%2C530&auto=format%2Ccompress&dpr=2&w=650',
+    alt:'picture of Black Widow', 
+  },
+  {
+   question:'What happened after Hunk snapping his finger?',
+    answer:[
+      'The vanished population came back',
+      'Nothing happened',
+      'He turned yellow',
+      'Thanos died',
+    ],
+    correctAnswer: 'The vanished population came back',
+    icon:'https://cdn.images.express.co.uk/img/dynamic/36/590x/Avengers-Infinity-War-Hulk-news-914393.jpg',
+    alt:'picture of Green Hunk',  
+  },
+  {
+    question:'To who did Captain America give his shield to?',
+    answer:[
+      'Hunk',
+      'Falcon',
+      'Dr. Strange',
+      'Winter Soldier',
+    ],
+    correctAnswer: 'Falcon',
+    icon:'https://cdn.vox-cdn.com/thumbor/zxJpkthuj0joGUXsffl-BPpvPAU=/1400x788/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/16196271/lag0835_v074.1004_wide_6038893c740ea664a676ebc5d8160b22c02ad616.jpg',
+    alt:'picture of Falcon',  
+  },
+  {
+   question:'What stone did Thanos use to get Captain Marvel off his back?',
+    answer:[
+      'Time Stone',
+      'Soul Stone',
+      'Power Stone',
+      'All of the stones',
+    ],
+    correctAnswer: 'Power Stone',
+    icon:'https://pixel.nymag.com/imgs/daily/vulture/2016/11/02/marvel-stones/02-power-stone.nocrop.w710.h2147483647.2x.jpg',
+    alt:'picture of power stone',   
+  }
+]  
