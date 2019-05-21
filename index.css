@@ -462,7 +462,7 @@ input[type=submit]:hover {
   }
   .answer-choices {
     font-size: 17px;
-    padding-bottom: 5px;
+    padding-bottom: 10px;
     padding-left: 0px;
   }
   input[type=submit] {
