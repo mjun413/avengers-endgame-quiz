@@ -605,6 +605,7 @@ input[type=submit]:hover {
 }
   #quiz-questions {
     width: 100%;
+    margin-top:10px;
   }
   #question-texts {
     margin-top: 10px;
